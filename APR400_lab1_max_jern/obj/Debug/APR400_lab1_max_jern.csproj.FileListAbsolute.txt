@@ -1,0 +1,26 @@
+c:\users\maje0019\documents\visual studio 2017\Projects\APR400_lab1_max_jern\APR400_lab1_max_jern\bin\Debug\APR400_lab1_max_jern.exe.config
+c:\users\maje0019\documents\visual studio 2017\Projects\APR400_lab1_max_jern\APR400_lab1_max_jern\bin\Debug\APR400_lab1_max_jern.exe
+c:\users\maje0019\documents\visual studio 2017\Projects\APR400_lab1_max_jern\APR400_lab1_max_jern\bin\Debug\APR400_lab1_max_jern.pdb
+c:\users\maje0019\documents\visual studio 2017\Projects\APR400_lab1_max_jern\APR400_lab1_max_jern\obj\Debug\APR400_lab1_max_jern.csprojResolveAssemblyReference.cache
+c:\users\maje0019\documents\visual studio 2017\Projects\APR400_lab1_max_jern\APR400_lab1_max_jern\obj\Debug\APR400_lab1_max_jern.exe
+c:\users\maje0019\documents\visual studio 2017\Projects\APR400_lab1_max_jern\APR400_lab1_max_jern\obj\Debug\APR400_lab1_max_jern.pdb
+C:\Users\maje0019\Desktop\APR400_lab1_max_jern\APR400_lab1_max_jern\APR400_lab1_max_jern\bin\Debug\APR400_lab1_max_jern.exe.config
+C:\Users\maje0019\Desktop\APR400_lab1_max_jern\APR400_lab1_max_jern\APR400_lab1_max_jern\bin\Debug\APR400_lab1_max_jern.exe
+C:\Users\maje0019\Desktop\APR400_lab1_max_jern\APR400_lab1_max_jern\APR400_lab1_max_jern\bin\Debug\APR400_lab1_max_jern.pdb
+C:\Users\maje0019\Desktop\APR400_lab1_max_jern\APR400_lab1_max_jern\APR400_lab1_max_jern\obj\Debug\APR400_lab1_max_jern.csprojResolveAssemblyReference.cache
+C:\Users\maje0019\Desktop\APR400_lab1_max_jern\APR400_lab1_max_jern\APR400_lab1_max_jern\obj\Debug\APR400_lab1_max_jern.exe
+C:\Users\maje0019\Desktop\APR400_lab1_max_jern\APR400_lab1_max_jern\APR400_lab1_max_jern\obj\Debug\APR400_lab1_max_jern.pdb
+C:\Users\Max Jern\Desktop\APR400_lab1_max_jern\APR400_lab1_max_jern\bin\Debug\APR400_lab1_max_jern.exe.config
+C:\Users\Max Jern\Desktop\APR400_lab1_max_jern\APR400_lab1_max_jern\bin\Debug\APR400_lab1_max_jern.exe
+C:\Users\Max Jern\Desktop\APR400_lab1_max_jern\APR400_lab1_max_jern\bin\Debug\APR400_lab1_max_jern.pdb
+C:\Users\Max Jern\Desktop\APR400_lab1_max_jern\APR400_lab1_max_jern\obj\Debug\APR400_lab1_max_jern.csprojAssemblyReference.cache
+C:\Users\Max Jern\Desktop\APR400_lab1_max_jern\APR400_lab1_max_jern\obj\Debug\APR400_lab1_max_jern.csproj.CoreCompileInputs.cache
+C:\Users\Max Jern\Desktop\APR400_lab1_max_jern\APR400_lab1_max_jern\obj\Debug\APR400_lab1_max_jern.exe
+C:\Users\Max Jern\Desktop\APR400_lab1_max_jern\APR400_lab1_max_jern\obj\Debug\APR400_lab1_max_jern.pdb
+C:\Users\Max Jern\Desktop\New folder (2)\APR400_lab1_max_jern\APR400_lab1_max_jern\bin\Debug\APR400_lab1_max_jern.exe.config
+C:\Users\Max Jern\Desktop\New folder (2)\APR400_lab1_max_jern\APR400_lab1_max_jern\bin\Debug\APR400_lab1_max_jern.exe
+C:\Users\Max Jern\Desktop\New folder (2)\APR400_lab1_max_jern\APR400_lab1_max_jern\bin\Debug\APR400_lab1_max_jern.pdb
+C:\Users\Max Jern\Desktop\New folder (2)\APR400_lab1_max_jern\APR400_lab1_max_jern\obj\Debug\APR400_lab1_max_jern.csprojAssemblyReference.cache
+C:\Users\Max Jern\Desktop\New folder (2)\APR400_lab1_max_jern\APR400_lab1_max_jern\obj\Debug\APR400_lab1_max_jern.csproj.CoreCompileInputs.cache
+C:\Users\Max Jern\Desktop\New folder (2)\APR400_lab1_max_jern\APR400_lab1_max_jern\obj\Debug\APR400_lab1_max_jern.exe
+C:\Users\Max Jern\Desktop\New folder (2)\APR400_lab1_max_jern\APR400_lab1_max_jern\obj\Debug\APR400_lab1_max_jern.pdb
